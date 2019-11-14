@@ -3,28 +3,30 @@
 Welcome to Software Engineering Immersive. This repository contains information and materials specific to your course.
 
 # Important links
-- [Class Slack](https://miskacademy.slack.com/messages/CMT659MKM)
+- [Class Slack](https://miskacademy.slack.com/archives/GQ5QFC7UN)
 - [Exit Ticket](https://google.com/)
 
 
 ## Instructional Team
 - **Ebere Iweala** (Temp Lead Instructor)
-  - [ebere.iweala@generalassemb.ly](mailto:ebere.iweala@generalassemb.ly)
-
-- **Yasir Almuhtrish** (Facilitator)
-  - [yasir.almuhtrish@generalassemb.ly](mailto:yasir.almuhtrish@generalassemb.ly)
+  - [Email Me](mailto:ebere.iweala@generalassemb.ly)
+  
+- **Saad Iqbal** (Lead Instructor)
+  - [saad.igbal@generalassemb.ly](mailto:saad.igbal@generalassemb.ly)
+  
+- **Samar Fares** (Junior Instructor)
+  - [Email](mailto:samar.fares@generalassemb.ly)
+  
+- **Abdullah Altwaim** (Facilitator)
+  - [Email](mailto:abdullah.altwaim@generalassemb.ly)
   - Weekday Office Hours: 6pm - 9pm (Offline) / 
   - Saturday 2pm - 4pm (Online/Offline)
 
-- **Ahmad Yaseen** (Facilitator)
-  - [ahmad.yaseen@generalassemb.ly](mailto:ahmad.yaseen@generalassemb.ly)
+- **Sara Daghustani** (Facilitator)
+  - [sara.daghustani@generalassemb.ly](mailto:sara.daghustani@generalassemb.ly)
   - Weekday Office Hours: 6pm - 9pm (Offline) / 
   - Saturday 2pm - 4pm (Online/Offline)
   
-- **Atheer** (Facilitator)
-  - [atheer.m.070@gmail.com](mailto:atheer.m.070@gmail.com)
-  - Weekday Office Hours: 6pm - 9pm (Offline) /
-  - Saturday 2pm - 4pm (Online/Offline)
 
 ## Course Outline
 The following is given as a guideline only and may be adjusted by the instructor based upon the pace of the class.
@@ -48,8 +50,8 @@ Homework submission is very important to the completion of this program.
 
 | Class | Title | Lab | HW |
 | --- | --- | --- | :---: | 
-| Lesson 0 | [Installfest](https://github.com/SEI2-jeddah/installfest) | - | - | |
-| Lesson 1 | [CLI & Git  ](https://github.com/SEI2-jeddah/w01d01) | [Lab 1](https://github.com/FEWD-Jeddah/week-01-Lab-01)| | |
+| Lesson 0 | [Installfest](https://github.com/sei-jed-10/installfest) | - | - | |
+| Lesson 1 | [CLI & Git  ](https://github.com/sei-jed-10/w01d01_command_line) | [Lab 1](https://github.com/FEWD-Jeddah/week-01-Lab-01)| | |
 | Lesson 2 | [Introduction to JS ](https://github.com/SEI2-jeddah/w01d02) |[Lab 2](https://github.com/SEI2-jeddah/w01d02-finallab)| [JS Intro HW](https://github.com/SEI2-jeddah/hw-week1-day2-javascript) | |
 | Lesson 3 | [Function & IIFE ](https://github.com/SEI2-jeddah/w01d03) |[Lab 3](https://github.com/SEI2-jeddah/w01d03/blob/master/Lab/BankAccount.md)| [JS Function HW](https://github.com/SEI2-jeddah/hw-week1-day3-js-functions) | |
 | Lesson 4 | [Arrays & Loops](https://github.com/SEI2-jeddah/w01d04) || [Arrays HW](https://github.com/SEI2-jeddah/hw-week1-day4-js-array) | |
@@ -74,9 +76,9 @@ Homework submission is very important to the completion of this program.
 
 | No. | Student | First Project | Second Project | Third Project |Final Project |
 |---  | ---     | ---      | ---      |  ---      |  ---      | 
-|1    | [Raghad Allhyani](https://github.com/1Raghad1/) | [Follow The Path](https://1raghad1.github.io/FollowThePath/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|2    | [Ali M Hamidaddin](https://github.com/Ali-hd/Project-1-Concentration_game) | [Concentration Game](https://ali-hd.github.io/Project-1-Concentration_game/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|3    | [Fahad Alqurashi](https://github.com/Fah11ad/) | [Speed Math Game](https://fah11ad.github.io/Project-1---Speed-Math-Game/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|1    | [Abdulrahman Alsulami](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|2    | [Ali M Hamidaddin](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|3    | [Fahad Alqurashi](https://github.com/Fah11ad/) | [First Project](https://github.io//) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |4    | [Nouf Almazrou](https://github.com/noufalmazrou) | [TicTacToe](https://noufalmazrou.github.io/game/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |5    | [Abdulmajed Dhelaimi](https://github.com/) | [Memory & TicTacToe](https://adhelaimi.github.io/project1/) | [Second Project](https://github.io/)| [Third Project](https://github.io/adhelaimi)|[Final Project](https://github.io/) | 
 |6    | [Majd Alsharif](https://github.com/majdalsharif) | [Horcrux Cave](https://majdalsharif.github.io/horcrux_cave//) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
@@ -108,17 +110,3 @@ Homework submission is very important to the completion of this program.
 |32    | [Doaa Adel Al-Alawi](https://github.com/doaaAlalawi) | [Dots and Box](https://doaaalalawi.github.io/dots-and-box-project-1/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 
 ----------
-
-#### Group Projects 3 
-
-| No. |Group Name| Student One |Student Two| Student Three | Student Four | Student Five | Project Repo |
-| --- | ---| --- | --- | -- | -- | -- | -- |
-1 | Webit |Sara | Suhaib | Doaa Al-Alawi | Abdulla | | |
-2 | The TaCod |Amal | Mohammad Al-Faisal | Majd | Abdulgadir | | |
-3 | Nameless Kings |Mohammad Salah | Aisha | Abdulmajid |Ashjan| | | 
-4 |Ibn Battuta |Shahad | Tareq |  Diala | Nujud | | |
-5 | On Hiatus |Doa Al-Hajjaji |  Fahad | Nada | | | |
-6 | Viral | Hisham  | Wejdan| Midhat | Abeer | Israa | |
-7 | Server Monks| Raghad  | Anas| Ibtisam |  |  | |
-8 |Team Unicorn | Yazeed  | Hamed| Ahlam | Nouf | Ali | |
-
