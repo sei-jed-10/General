@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
 
-# SEI-10-Jed Software Engineering Immersive - 10 (Jeddah Nov-2019)
+# Software Engineering Immersive - 10 (Jeddah Nov-2019)
 Hi Everyone, Welcome to SEI. This repository contains information, Homework, Assignments, Projects and Materials specific to your course.
 
 # Important links
