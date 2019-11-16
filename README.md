@@ -70,7 +70,7 @@ Homework submission is very important to the completion of this program.
 |3    | [Abdulrahman hassan n alsulami](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |4    | [Afnan Ahmed Mohammed Masrahi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |5    | [Ahmad Al Arif](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|6    | [Amal Abdulmoti Algregri] (https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|6    | [Amal Abdulmoti Algregri](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |7    | [Bandari Saud Alotaibi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |8    | [Doaa Mahmoud Barad Turkistani](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |9   | [Fahad Lutfallah Alturkistani](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
