@@ -4,6 +4,7 @@
 Hi Everyone, Welcome to SEI. This repository contains information, Homework, Assignments, Projects and Materials specific to your course.
 
 # Important links
+- [Class Slack](https://miskacademy.slack.com/archives/GQ5QFC7UN)
 - [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLScJYIOvBRGzXXs7KuwHau7u5nR6z86c9bB94iSttW9CQH4Uqw/viewform) (Please complete it at the end of Thursday class each week)
 
 ## Schedule
