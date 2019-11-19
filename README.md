@@ -13,6 +13,10 @@ Hi Everyone, Welcome to SEI. This repository contains information, Homework, Ass
 -- | -- | --
 Class | Sun - Thurs | 9am - 5pm 
 
+| | Breaks 
+-- | -- 
+Lunch | 12:30pm - 1:30pm 
+Prayer | 3:20pm - 3:50pm 
 
 ## Instructional Team
 - **Ebere Iweala** (Temp Lead Instructor)
@@ -40,27 +44,27 @@ The following is given as a guideline only and may be adjusted by the instructor
 
 | Unit | Title ||
 | --- | --- |  ---|
-| Unit 1 | Front-End Development  |  |
-| Unit 2 | Frontend Frameworks |  |
-| Unit 3 |  Backend Development | |
+| Unit 1 | Front End Development  |  |
+| Unit 2 | Front End Frameworks |  |
+| Unit 3 |  Back End Development | |
 | Unit 4 | APIs and FullStack Development | |   
-
 
 General Assembly's Software Engineering Immersive course  is split into 4 units.
 
 ## Homeworks.
 Homework submission is very important to the completion of this program. 
-
-[How to Submit Homework](homework_submission/README.md) 
+[How to Submit Homework](https://github.com/sei-jed-10/homework_submission_important) 
 
 ## Lesson Breakdown
-
-| Class | Title | Lab | HW |
-| --- | --- | --- | :---: | 
-| Lesson 0 | [Installfest](https://github.com/sei-jed-10/installfest) | - | - | |
-| Lesson 1 | [CLI & Git  ](https://github.com/sei-jed-10/w01d01_command_line) | [Lab 1](https://github.com/FEWD-Jeddah/week-01-Lab-01)| | |
-
-
+| Week | Day  | Warm Up | Lesson | Lesson | Lesson | Lesson | Homework |  
+|------|------| --------| -------| -------| -------|--------| ---------|
+|1|1| NAN | [Installfest](https://github.com/sei-jed-10/installfest)| [CLI](https://github.com/sei-jed-10/w01d01_command_line)| [Git](https://github.com/sei-jed-10/w01d01_git_and_github)|NAN|NAN|
+|1|2| [Murder](https://github.com/sei-jed-10/warmup-w01d02/tree/solution)| [Js Intro](https://github.com/sei-jed-10/w01d02_javascript-intro)| [lab1](https://github.com/sei-jed-10/w01d02_lab_conditionals)| NAN|NAN|[JS-HW1](https://github.com/sei-jed-10/w01d02-HW1)|
+|1|3| [Warm UP](https://github.com/sei-jed-10/Warmup-W01D03) | [Function](https://github.com/sei-eternity/lesson-w01d03-js-functions)| [Lab1](https://github.com/sei-jed-10/sei-jed-3-w1-d3-lab)| [Lab2](https://github.com/sei-jed-10/w01d03-lab)|NAN|[Function-HW2](https://github.com/sei-jed-10/w01d03-HW2)|
+|1|4| NAN | [Arrays]()| [Loops]()| []()|[]()|[Array & Loops-HW3]()|
+|1|5| []() | []()| []()| []()|[]()|[]()|
+-|-|-|-|-|-|-|-
+|2|1| []() | []()| []()| []()|[]()|[]()|
 
 #### Students
 
