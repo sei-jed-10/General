@@ -60,8 +60,8 @@ Homework submission is very important to the completion of this program.
 |------|------| --------| -------| -------| -------|--------| ---------|
 |1|1| NAN | [Installfest](https://github.com/sei-jed-10/installfest)| [CLI](https://github.com/sei-jed-10/w01d01_command_line)| [Git](https://github.com/sei-jed-10/w01d01_git_and_github)|NAN|NAN|
 |1|2| [Murder](https://github.com/sei-jed-10/warmup-w01d02/tree/solution)| [Js Intro](https://github.com/sei-jed-10/w01d02_javascript-intro)| [lab1](https://github.com/sei-jed-10/w01d02_lab_conditionals)| NAN|NAN|[JS-HW1](https://github.com/sei-jed-10/w01d02-HW1)|
-|1|3| [Warm UP](https://github.com/sei-jed-10/Warmup-W01D03) | [Function](https://github.com/sei-eternity/lesson-w01d03-js-functions)| [Lab1](https://github.com/sei-jed-10/sei-jed-3-w1-d3-lab)| [Lab2](https://github.com/sei-jed-10/w01d03-lab)|NAN|[Function-HW2](https://github.com/sei-jed-10/w01d03-HW2)|
-|1|4| NAN | [Arrays]()| [Loops]()| []()|[]()|[Array & Loops-HW3]()|
+|1|3| [Warm UP](https://github.com/sei-jed-10/Warmup-W01D03) | [JS Functions](https://github.com/sei-eternity/lesson-w01d03-js-functions)| [Lab1](https://github.com/sei-jed-10/sei-jed-3-w1-d3-lab)| [Lab2](https://github.com/sei-jed-10/w01d03-lab)|NAN|[JS Functions-HW2](https://github.com/sei-jed-10/w01d03-HW2)|
+|1|4| NAN | [JS Arrays]()| [JS Loops]()| []()|[]()|[JS Arrays & Loops-HW3]()|
 |1|5| []() | []()| []()| []()|[]()|[]()|
 -|-|-|-|-|-|-|-
 |2|1| []() | []()| []()| []()|[]()|[]()|
