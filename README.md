@@ -61,7 +61,7 @@ Homework submission is very important to the completion of this program.
 |1|1| NAN | [Installfest](https://github.com/sei-jed-10/installfest)| [CLI](https://github.com/sei-jed-10/w01d01_command_line)| [Git](https://github.com/sei-jed-10/w01d01_git_and_github)|NAN|NAN|NAN|
 |1|2| [Murder](https://github.com/sei-jed-10/warmup-w01d02/tree/solution)| [Js Intro](https://github.com/sei-jed-10/w01d02_javascript-intro)| [lab1](https://github.com/sei-jed-10/w01d02_lab_conditionals)| NAN|NAN|NAN|[JS-HW1](https://github.com/sei-jed-10/w01d02-HW1)|
 |1|3| [Warm UP](https://github.com/sei-jed-10/Warmup-W01D03) | [JS Functions](https://github.com/sei-eternity/lesson-w01d03-js-functions)| [Lab1](https://github.com/sei-jed-10/sei-jed-3-w1-d3-lab)| [Lab2](https://github.com/sei-jed-10/w01d03-lab)|NAN|NAN|[JS Functions-HW2](https://github.com/sei-jed-10/w01d03-HW2)|
-|1|4| NAN | [JS Arrays](https://github.com/sei-jed-10/w01d04_arrays-loops)| [JS Loops](https://github.com/sei-jed-10/w01d04_arrays-loops/blob/master/slides/loops.pdf)| [JS Array-Lab](https://github.com/sei-jed-10/w01d04-arrays-lab)|[JS Loops-Lab](https://github.com/sei-jed-10/w01d04-loops-lab)|[JS Arrays-Loops-Lab]()|[JS Arrays & Loops-HW3]()|
+|1|4| NAN | [JS Arrays](https://github.com/sei-jed-10/w01d04_arrays-loops)| [JS Loops](https://github.com/sei-jed-10/w01d04_arrays-loops/blob/master/slides/loops.pdf)| [JS Array-Lab](https://github.com/sei-jed-10/w01d04-arrays-lab)|[JS Loops-Lab](https://github.com/sei-jed-10/w01d04-loops-lab)|[JS Arrays-Loops-Lab](https://github.com/sei-jed-10/w01d04-arrays-loops-lab)|[JS Arrays & Loops-HW3](https://github.com/sei-jed-10/w01d04-HW3)|
 |1|5| []() | []()| []()| []()|[]()|[]()|[]()|
 -|-|-|-|-|-|-|-
 |2|1| []() | []()| []()| []()|[]()|[]()|[]()|
