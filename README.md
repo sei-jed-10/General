@@ -37,19 +37,24 @@ Prayer | 3:30pm - 4:00pm
   - [Email Me](mailto:sara.daghustani@generalassemb.ly)
   - Weekday Office Hours: 6pm - 9pm (Offline) / 
   - Saturday 2pm - 4pm (Online/Offline)
-  
+
 
 ## Course Outline
 The following is given as a guideline only and may be adjusted by the instructor based upon the pace of the class.
 
-| Unit | Title ||
-| --- | --- |  ---|
-| Unit 1 | Front End Development  |  |
-| Unit 2 | Front End Frameworks |  |
-| Unit 3 |  Back End Development | |
-| Unit 4 | APIs and FullStack Development | |   
-
 General Assembly's Software Engineering Immersive course  is split into 4 units.
+### Unit 1 (Front End Web Development)
+
+| Week  | Topics |
+| ----- | ------ |
+| 1  | Command Line, Git, Javascript  |
+| 2  | HTML, CSS, Responsive, DOM, jQuery|
+| 3  | Project 1  |
+
+### Unit 2 (Front End Framework)
+### Unit 2 (Back End Web Development)
+### Unit 4 (Server API and FullStack Development)
+ 
 
 ## Homeworks.
 Homework submission is very important to the completion of this program. 
@@ -66,7 +71,8 @@ Homework submission is very important to the completion of this program.
 -|-|-|-|-|-|-|-
 |2|1| []() | []()| []()| []()|[]()|[]()|[]()|
 
-#### Students
+
+### Students
 
 | No. | Student | First Project | Second Project | Third Project |Final Project |
 |---  | ---     | ---      | ---      |  ---      |  ---      | 
