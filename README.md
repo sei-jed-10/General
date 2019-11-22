@@ -96,11 +96,10 @@ Homework submission is very important to the completion of this program.
 |18    | [Leena Yaseen](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |19    | [Mohammed AL-Amri](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |20   | [Mohammed Abdullah H Almahdawi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|21  | [Mohammed Alghamdi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|22   | [Razan Fares Sannan](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|23    | [Safwan Abdulhamid AlQulayti](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) |
-|24   | [Sara Abdulrahman M Alraddadi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) |
-|25    | [Sarah Masoud AlAhmadi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) |
-|26   | [Wardah Ahmed Almalki](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) |
+|21   | [Razan Fares Sannan](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|22    | [Safwan Abdulhamid AlQulayti](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) |
+|23   | [Sara Abdulrahman M Alraddadi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) |
+|24   | [Sarah Masoud AlAhmadi](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) |
+|25  | [Wardah Ahmed Almalki](https://github.com/) | [First Project](https://github.io/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) |
 
 ----------
