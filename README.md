@@ -69,7 +69,7 @@ Homework submission is very important to the completion of this program.
 |1|4| NAN | [JS Arrays](https://github.com/sei-jed-10/w01d04_arrays-loops)| [JS Loops](https://github.com/sei-jed-10/w01d04_arrays-loops/blob/master/slides/loops.pdf)| [JS Array-Lab](https://github.com/sei-jed-10/w01d04-arrays-lab)|[JS Loops-Lab](https://github.com/sei-jed-10/w01d04-loops-lab)|[JS Arrays-Loops-Lab](https://github.com/sei-jed-10/w01d04-arrays-loops-lab)|[JS Arrays & Loops-HW3](https://github.com/sei-jed-10/w01d04-HW3)|
 |1|5| [Leap Year /](https://github.com/sei-jed-10/warmup-w01-d05-leapyear)[ Count/Sum](https://github.com/sei-jed-10/warmup-w01-d05-arrays) | [JS Objects](https://github.com/sei-jed-10/w01d05_JS-Objects)| [lab1](https://github.com/sei-jed-10/w01d05-Objects-lab1)| [lab2](https://github.com/sei-jed-10/w01d05-Objects-lab2)|[lab3](https://github.com/sei-jed-10/w01d05-Objects-lab3)|[lab4](https://github.com/sei-jed-10/w01d05-Objects-lab4)|[MBTA HW4](https://github.com/sei-jed-10/w01d05-HW4)|
 -|-|-|-|-|-|-|-
-|2|1| [Scrabble Warm Up](https://github.com/sei-jed-10/warmup-w02-d01-scrabble) | [HTML](https://github.com/sei-jed-10/W02D01-Intro-HTML)| [lab1](https://github.com/sei-jed-10/W02D01-Lab)| [lab2 while](https://github.com/sei-jed-10/W02d01-lab2)|[NAN]()|[NAN]()|[]()|
+|2|1| [Scrabble Warm Up](https://github.com/sei-jed-10/warmup-w02-d01-scrabble) | [HTML](https://github.com/sei-jed-10/W02D01-Intro-HTML)| [lab1](https://github.com/sei-jed-10/W02D01-Lab)| [lab2](https://github.com/sei-jed-10/W02d01-lab2)|[NAN]()|[NAN]()|[]()|
 
 
 ### Students
