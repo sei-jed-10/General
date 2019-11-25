@@ -71,6 +71,12 @@ Homework submission is very important to the completion of this program.
 -|-|-|-|-|-|-|-
 |2|1| [Scrabble](https://github.com/sei-jed-10/warmup-w02-d01-scrabble) | [HTML](https://github.com/sei-jed-10/W02D01-Intro-HTML)| [lab1](https://github.com/sei-jed-10/W02D01-Lab)| [lab2](https://github.com/sei-jed-10/W02d01-lab2)|[NAN]()|[NAN]()|[ ex5,6,7-HW5](https://github.com/sei-jed-10/W02d01-lab2)|
 |2|2| []() | []()| []()| []()|[]()|[]()|[HTML & CSS-HW6]()|
+|2|3| []() | []()| []()| []()|[]()|[]()|[]()|
+|2|4| []() | []()| []()| []()|[]()|[]()|[]()|
+|2|5| []() | []()| []()| []()|[]()|[]()|[]()|
+-|-|-|-|-|-|-|-
+|3|1| []() | []()| []()| []()|[]()|[]()|[]()|
+
 
 
 ### Students
