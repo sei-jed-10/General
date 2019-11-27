@@ -75,7 +75,7 @@ Homework submission is very important to the completion of this program.
 |2|1| [Scrabble](https://github.com/sei-jed-10/warmup-w02-d01-scrabble) | [HTML](https://github.com/sei-jed-10/W02D01-Intro-HTML)| [lab1](https://github.com/sei-jed-10/W02D01-Lab)| [lab2](https://github.com/sei-jed-10/W02d01-lab2)|NAN|NAN|[ ex5,6,7-HW5](https://github.com/sei-jed-10/W02d01-lab2)|
 |2|2| [HTML & CSS](https://github.com/sei-jed-10/W02-D02-HTML-CSS) | [CSS Diner](https://flukeout.github.io/)| [CSS Position](https://github.com/sei-jed-10/W02-D02-css-position)| [Flexbox Froggy](https://flexboxfroggy.com/)|[Flexbox Defense](http://www.flexboxdefense.com/)|[Flexbox Webflow](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)|[HTML & CSS-HW6](https://github.com/sei-jed-10/w02d02-HW6)|
 |2|3| [HTML&CSS](https://github.com/sei-jed-10/warmup-w02-d03-HTML-and-CSS) | [Responsive-Design](https://github.com/sei-jed-10/W02D03-Responsive-Design)| [Lab1](https://github.com/sei-jed-10/W02D03-lab1)| [DOM](https://github.com/sei-jed-10/W02D03-DOM/blob/master/dom.pdf)|[Lab2](https://github.com/sei-jed-10/W02D03-DOM)| [HTML&CSS Practice1 /](https://github.com/sei-jed-10/w02d03-Practice1) [ HTML&CSS Practice2](https://github.com/sei-jed-10/w02d03-Practice2) |[DOM-HW7](https://github.com/sei-jed-10/hw-w02d04-dom)|
-|2|4| NAN | [Jquery](https://github.com/sei-jed-10/W02D04-Jquery)| []()| []()|[]()|[]()|[]()|
+|2|4| NAN | [Jquery](https://github.com/sei-jed-10/W02D04-Jquery)| NAN| NAN |NAN|NAN|[DOM-HW7](https://github.com/sei-jed-10/hw-w02d04-dom)|
 |2|5| []() | []()| []()| []()|[]()|[]()|[]()|
 -|-|-|-|-|-|-|-
 |3|1| []() | []()| []()| []()|[]()|[]()|[]()|
