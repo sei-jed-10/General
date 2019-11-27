@@ -56,6 +56,9 @@ General Assembly's Software Engineering Immersive course  is split into 4 units.
 ### Unit 4 (Server API and FullStack Development)
  
 
+## External Resources
+Unit1 Resources **[Here](https://github.com/sei-jed-10/External-Resources)**
+
 ## Homeworks.
 Homework submission is very important to the completion of this program. 
 [How to Submit Homework](https://github.com/sei-jed-10/homework_submission_important) 
