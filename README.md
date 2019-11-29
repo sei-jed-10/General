@@ -71,15 +71,15 @@ Homework submission is very important to the completion of this program.
 |1|3| [Warm UP](https://github.com/sei-jed-10/Warmup-W01D03) | [JS Functions](https://github.com/sei-jed-10/w01wd03_JS-functions)| [Lab1](https://github.com/sei-jed-10/w01d03-JS-function-lab1)| [Lab2](https://github.com/sei-jed-10/w01d03-JS-function-lab2)|NAN|NAN|[JS Functions-HW2](https://github.com/sei-jed-10/w01d03-HW2)|
 |1|4| NAN | [JS Arrays](https://github.com/sei-jed-10/w01d04_arrays-loops)| [JS Loops](https://github.com/sei-jed-10/w01d04_arrays-loops/blob/master/slides/loops.pdf)| [JS Array-Lab](https://github.com/sei-jed-10/w01d04-arrays-lab)|[JS Loops-Lab](https://github.com/sei-jed-10/w01d04-loops-lab)|[JS Arrays-Loops-Lab](https://github.com/sei-jed-10/w01d04-arrays-loops-lab)|[JS Arrays & Loops-HW3](https://github.com/sei-jed-10/w01d04-HW3)|
 |1|5| [Leap Year /](https://github.com/sei-jed-10/warmup-w01-d05-leapyear)[ Count/Sum](https://github.com/sei-jed-10/warmup-w01-d05-arrays) | [JS Objects](https://github.com/sei-jed-10/w01d05_JS-Objects)| [lab1](https://github.com/sei-jed-10/w01d05-Objects-lab1)| [lab2](https://github.com/sei-jed-10/w01d05-Objects-lab2)|[lab3](https://github.com/sei-jed-10/w01d05-Objects-lab3)|[lab4](https://github.com/sei-jed-10/w01d05-Objects-lab4)|[MBTA HW4](https://github.com/sei-jed-10/w01d05-HW4)|
--|-|-|-|-|-|-|-
+-|-|-|-|-|-|-|-|-|
 |2|1| [Scrabble](https://github.com/sei-jed-10/warmup-w02-d01-scrabble) | [HTML](https://github.com/sei-jed-10/W02D01-Intro-HTML)| [lab1](https://github.com/sei-jed-10/W02D01-Lab)| [lab2](https://github.com/sei-jed-10/W02d01-lab2)|NAN|NAN|[ ex5,6,7-HW5](https://github.com/sei-jed-10/W02d01-lab2)|
 |2|2| [HTML & CSS](https://github.com/sei-jed-10/W02-D02-HTML-CSS) | [CSS Diner](https://flukeout.github.io/)| [CSS Position](https://github.com/sei-jed-10/W02-D02-css-position)| [Flexbox Froggy](https://flexboxfroggy.com/)|[Flexbox Defense](http://www.flexboxdefense.com/)|[Flexbox Webflow](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)|[HTML & CSS-HW6](https://github.com/sei-jed-10/w02d02-HW6)|
 |2|3| [HTML&CSS](https://github.com/sei-jed-10/warmup-w02-d03-HTML-and-CSS) | [Responsive-Design](https://github.com/sei-jed-10/W02D03-Responsive-Design)| [Lab1](https://github.com/sei-jed-10/W02D03-lab1)| [DOM](https://github.com/sei-jed-10/W02D03-DOM/blob/master/dom.pdf)|[Lab2](https://github.com/sei-jed-10/W02D03-DOM)| [HTML&CSS Practice1 /](https://github.com/sei-jed-10/w02d03-Practice1) [ HTML&CSS Practice2](https://github.com/sei-jed-10/w02d03-Practice2) |[DOM-HW7](https://github.com/sei-jed-10/hw-w02d04-dom)|
 |2|4| NAN | [Jquery](https://github.com/sei-jed-10/W02D04-Jquery)| NAN| NAN |NAN|NAN|[DOM-HW7](https://github.com/sei-jed-10/hw-w02d04-dom)|
 |2|5| [Game of Zones](https://github.com/sei-jed-10/warmup-w02-d05-game-of-zones) | [Minions JQuery](https://github.com/sei-jed-10/week2-practice-jquery)| [Wireframes](https://github.com/sei-jed-10/W02D05-Wireframes-UserStories)|NAN|NAN|NAN|[Project1](https://github.com/sei-jed-10/project1)|
--|-|-|-|-|-|-|-
-|3|1-4|Project1| NAN| NAN| NAN|NAN|NAN|NAN|
-|3|5|Presentation| NAN| NAN| NAN|NAN|NAN|NAN|
+-|-|-|-|-|-|-|-|-|
+|3|1-4|Project1|NAN|NAN| NAN|NAN|NAN|NAN|
+|3|5|Presentation|NAN|NAN|NAN|NAN|NAN|NAN|
 -|-|-|-|-|-|-|-
 |4|1| []() | []()| []()| []()|[]()|[]()|[]()|
 |4|2| []() | []()| []()| []()|[]()|[]()|[]()|
