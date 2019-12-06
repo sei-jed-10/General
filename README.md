@@ -105,51 +105,28 @@ Homework submission is very important to the completion of this program.
 | No. | Student | First Project | Second Project | Third Project |Final Project |
 |---  | ---     | ---      | ---      |  ---      |  ---      | 
 |1    | [Abdullah Mohammed Alshahrani](https://github.com/AbdullahKhales) | [Connect4](https://abdullahkhales.github.io/connect4/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |2    | [Abdullah A Binmahfouz](https://github.com/abinm670) |[Missing] () | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |3    | [Abdulrahman Hassan N Alsulami](https://github.com/a-sulami) | [Connect4](https://a-sulami.github.io/4-in-a-row-game/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |4    | [Afnan Ahmed Mohammed Masrahi](https://github.com/Afnanahmed90) | [Connect4](https://afnanahmed90.github.io/Project-1/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |5    | [Ahmad Al Arif](https://github.com/ahmadalarif) | [Connect4](https://ahmadalarif.github.io/connect4/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |6    | [Amal Abdulmoti Algregri](https://github.com/Amal337) | [Connect4](https://amal337.github.io/project1-connect4/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |7    | [Bandar Al-Huthali](https://github.com/Bedo-11) | [[Connect4](https://bedo-11.github.io/project1-1/index.html) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |8    | [Bandari Saud Alotaibi](https://github.com/bandari5) | [Connect4](https://bandari5.github.io/Connect4Game/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |9   | [Dalia Dammas](https://github.com/dhdammas) | [Connect4](https://dhdammas.github.io/connect4/index.html) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |10    | [Doaa Mahmoud Barad Turkistani](https://github.com/DoaaMT) | [Connect4](https://doaamt.github.io/Connect4/index.html) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |11  | [Faisal Alsulaimani](https://github.com/iFaisalo) | [Connect4](https://ifaisalo.github.io/sei-1st-project-connect4/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |12    | [Fatmah Ahmad Abdulhameed Kalantan](https://github.com/fatmake) | [Connect4](https://fatmake.github.io/connect-4/project1.html) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |13   | [Hanin Nabil Nouh](https://github.com/hnouh) | [Connect4](https://hnouh.github.io/project1-Hanin-Nouh/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |14  | [Hatim Hisham Alattas](https://github.com/hatimalattas) | [Connect4](https://hatimalattas.github.io/project1-connect4/index.html) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |15    | [Ibrahim Mohammed Zahran](https://github.com/izahran) | [Connect4](https://izahran.github.io/Connect-4/Connect4.html) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |16    | [khadijah osama saber](https://github.com/KOSaber) | [Connect4](https://kosaber.github.io/MyProject1/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |17    | [Leena Yaseen](https://github.com/LeenaYaseen) | [Connect4](https://leenayaseen.github.io/connect4/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |18    | [Mohammed AL-Amri](https://github.com/Mohammedalamry) | [Connect4](https://mohammedalamry.github.io/project1connect4/index.html) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |19   | [Mohammed Abdullah H Almahdawi](https://github.com/Moohy) | [Connect4](https://moohy.github.io/Connect4/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |20   | [Razan Fares Sannan](https://github.com/Razan-1996) | [Connect4](https://razan-1996.github.io/project1/connect4.html) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-
 |21    | [Safwan Abdulhamid AlQulayti](https://github.com/SafwanAlqulayti) | [Connect4](https://safwanalqulayti.github.io/ProjectConnect4/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) |
-
 |22  | [Sara Abdulrahman M Alraddadi](https://github.com/Sara-Alraddadi) | [Connect4](https://sara-alraddadi.github.io/ProjectOne/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) |
-
 |23   | [Sarah Masoud AlAhmadi](https://github.com/SarahMA5) | [Connect4](https://sarahma5.github.io/Connect-4/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) |
-
 |24  | [Wardah Ahmed Almalki](https://github.com/wardahmad) | [Connect4](https://wardahmad.github.io/project_1/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) |
 
 ----------
