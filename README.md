@@ -51,8 +51,18 @@ General Assembly's Software Engineering Immersive course  is split into 4 units.
 | 2  | HTML, CSS, Responsive, DOM, jQuery|
 | 3  | Project 1  |
 
-### Unit 2 (Front End Framework)
+
 ### Unit 2 (Back End Web Development)
+
+| Week  | Topics |
+| ----- | ------ |
+| 4  | Ruby, SQL,  |
+| 5  | Ruby on Rails, Bootstrap, Authentication  |
+| 6  | Project 2 |
+
+
+### Unit 3 (Front End Framework)
+
 ### Unit 4 (Server API and FullStack Development)
  
 
@@ -78,8 +88,7 @@ Homework submission is very important to the completion of this program.
 |2|4| NAN | [Jquery](https://github.com/sei-jed-10/W02D04-Jquery)| NAN| NAN |NAN|NAN|[DOM-HW7](https://github.com/sei-jed-10/hw-w02d04-dom)|
 |2|5| [Game of Zones](https://github.com/sei-jed-10/warmup-w02-d05-game-of-zones) | [Minions JQuery](https://github.com/sei-jed-10/week2-practice-jquery)| [Wireframes](https://github.com/sei-jed-10/W02D05-Wireframes-UserStories)|NAN|NAN|NAN|[Project1](https://github.com/sei-jed-10/project1)|
 -|-|-|-|-|-|-|-|-|
-|3|1-4|Project1|NAN|NAN| NAN|NAN|NAN|NAN|
-|3|5|Presentation|NAN|NAN|NAN|NAN|NAN|NAN|
+|3|1-5|Project1|Project1|Project1|Project1|Project1|Project1|Project1|
 -|-|-|-|-|-|-|-
 |4|1| []() | []()| []()| []()|[]()|[]()|[]()|
 |4|2| []() | []()| []()| []()|[]()|[]()|[]()|
