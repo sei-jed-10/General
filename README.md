@@ -12,6 +12,7 @@ Hi Everyone, Welcome to SEI. This repository contains information, Homework, Ass
 || Days | Time
 -- | -- | --
 Class | Sun - Thurs | 9am - 5pm 
+Career Coach|Wed.| 9am - 11am 
 
 | | Breaks 
 -- | -- 
