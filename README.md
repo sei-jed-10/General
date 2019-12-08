@@ -94,7 +94,7 @@ Homework submission is very important to the completion of this program.
 -|-|-|-|-|-|-|-|-|
 |3|1-5|Project1|Project1|Project1|Project1|Project1|Project1|Project1|
 -|-|-|-|-|-|-|-
-|4|1| [Ruby into](https://github.com/sei-jed-10/W04D02-Ruby) | []()| []()| []()|[]()|[]()|[]()|
+|4|1| [Ruby into](https://github.com/sei-jed-10/W04D02-Ruby) |NAN| NAN|NAN|NAN|NAN|[ruby MBTA-HW8](https://github.com/sei-jed-10/w04d01-HW8)|
 |4|2| []() | []()| []()| []()|[]()|[]()|[]()|
 |4|3| []() | []()| []()| []()|[]()|[]()|[]()|
 |4|4| []() | []()| []()| []()|[]()|[]()|[]()|
