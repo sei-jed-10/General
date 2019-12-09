@@ -106,7 +106,7 @@ Homework submission is very important to the completion of this program.
 | No. | Student | First Project | Second Project | Third Project |Final Project |
 |---  | ---     | ---      | ---      |  ---      |  ---      | 
 |1    | [Abdullah Mohammed Alshahrani](https://github.com/AbdullahKhales) | [Connect4](https://abdullahkhales.github.io/connect4/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
-|2    | [Abdullah A Binmahfouz](https://github.com/abinm670) | Missing | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
+|2    | [Abdullah A Binmahfouz](https://github.com/abinm670) | [Connect4](https://abinm670.github.io/project1/)| [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |3    | [Abdulrahman Hassan N Alsulami](https://github.com/a-sulami) | [Connect4](https://a-sulami.github.io/4-in-a-row-game/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |4    | [Afnan Ahmed Mohammed Masrahi](https://github.com/Afnanahmed90) | [Connect4](https://afnanahmed90.github.io/Project-1/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
 |5    | [Ahmad Al Arif](https://github.com/ahmadalarif) | [Connect4](https://ahmadalarif.github.io/connect4/) | [Second Project](https://github.io/)| [Third Project](https://github.io/)|[Final Project](https://github.io/) | 
