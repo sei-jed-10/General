@@ -95,8 +95,8 @@ Homework submission is very important to the completion of this program.
 -|-|-|-|-|-|-|-|-|
 |3|1-5|Project1|Project1|Project1|Project1|Project1|Project1|Project1|
 -|-|-|-|-|-|-|-
-|4|1| NAN |[Ruby into](https://github.com/sei-jed-10/W04D01-Ruby)| NAN|NAN|NAN|NAN|[ruby MBTA-HW8](https://github.com/sei-jed-10/w04d01-HW8)|
-|4|2| [warmup](https://github.com/sei-jed-10/w04d02-warmup) | []()| []()| []()|[]()|[]()|[]()|
+|4|1| NAN |[Ruby into](https://github.com/sei-jed-10/W04D01-Ruby)|NAN|NAN|NAN|NAN|[Ruby MBTA-HW8](https://github.com/sei-jed-10/w04d01-HW8)|
+|4|2| [Warmup](https://github.com/sei-jed-10/w04d02-warmup) | []()| []()| []()|[]()|[]()|[Ruby Arrays-HW9](https://github.com/sei-jed-10/w04d02-HW9)|
 |4|3| []() | []()| []()| []()|[]()|[]()|[]()|
 |4|4| []() | []()| []()| []()|[]()|[]()|[]()|
 |4|5| []() | []()| []()| []()|[]()|[]()|[]()|
