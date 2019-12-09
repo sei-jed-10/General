@@ -95,7 +95,7 @@ Homework submission is very important to the completion of this program.
 -|-|-|-|-|-|-|-|-|
 |3|1-5|Project1|Project1|Project1|Project1|Project1|Project1|Project1|
 -|-|-|-|-|-|-|-
-|4|1| NAN|[installing Ruby](https://github.com/sei-jed-10/W04D01-Ruby/blob/master/install-ruby.md)|[Running Ruby](https://github.com/sei-jed-10/W04D01-Ruby/blob/master/how-to-run-ruby.md)|[Ruby Into](https://github.com/sei-jed-10/W04D01-Ruby)|[Lab1](https://github.com/sei-jed-10/W04D01-Ruby/blob/master/data-types-exercises.md)|[Lab2](https://github.com/sei-jed-10/W04D01-Ruby/blob/master/data-collections-exercises.md)|[Ruby MBTA-HW8](https://github.com/sei-jed-10/w04d01-HW8)|
+|4|1| NAN|[Installing Ruby](https://github.com/sei-jed-10/W04D01-Ruby/blob/master/install-ruby.md)|[Running Ruby](https://github.com/sei-jed-10/W04D01-Ruby/blob/master/how-to-run-ruby.md)|[Ruby Into](https://github.com/sei-jed-10/W04D01-Ruby)|[Lab1](https://github.com/sei-jed-10/W04D01-Ruby/blob/master/data-types-exercises.md)|[Lab2](https://github.com/sei-jed-10/W04D01-Ruby/blob/master/data-collections-exercises.md)|[Ruby MBTA-HW8](https://github.com/sei-jed-10/w04d01-HW8)|
 |4|2| [Warmup](https://github.com/sei-jed-10/w04d02-warmup) | []()| []()| []()|[]()|[]()|[Ruby Arrays-HW9](https://github.com/sei-jed-10/w04d02-HW9)|
 |4|3| []() | []()| []()| []()|[]()|[]()|[]()|
 |4|4| []() | []()| []()| []()|[]()|[]()|[]()|
