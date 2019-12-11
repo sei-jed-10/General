@@ -98,7 +98,7 @@ Homework submission is very important to the completion of this program.
 |4|1| NAN|[Installing Ruby](https://github.com/sei-jed-10/W04D01-Ruby/blob/master/install-ruby.md)|[Running Ruby](https://github.com/sei-jed-10/W04D01-Ruby/blob/master/how-to-run-ruby.md)|[Ruby Into](https://github.com/sei-jed-10/W04D01-Ruby)|[Lab1](https://github.com/sei-jed-10/W04D01-Ruby/blob/master/data-types-exercises.md)|[Lab2](https://github.com/sei-jed-10/W04D01-Ruby/blob/master/data-collections-exercises.md)|[Ruby MBTA-HW8](https://github.com/sei-jed-10/w04d01-HW8)|
 |4|2| [Warmup](https://github.com/sei-jed-10/w04d02-warmup) | [Ruby Loops](https://github.com/sei-jed-10/W04D02-RubyLoops)| [Ruby Methods](https://github.com/sei-jed-10/W04D02-RubyMethods)| NAN|NAN|NAN|[Ruby Arrays-HW9](https://github.com/sei-jed-10/w04d02-HW9)|
 |4|3| [Ruby Hacking](https://github.com/sei-jed-10/Warmup-W04-D03) | [OOP in Ruby](https://github.com/sei-jed-10/W04D03-RubyOOP)| [Ruby Inheritance](https://github.com/sei-jed-10/W04D03-RubyInheritance)|NAN|NAN|NAN|NAN|
-|4|4| NAN| [MySQL](https://github.com/sei-jed-10/W04D04-MySQL)| [Installing MySQL](https://github.com/sei-jed-10/MySQL-Downlaod-Steps)|NAN|NAN|NAN|[MBTA Class](https://github.com/sei-jed-10/w04d03-HW10)|
+|4|4| NAN| [MySQL](https://github.com/sei-jed-10/W04D04-MySQL)| [Installing MySQL](https://github.com/sei-jed-10/MySQL-Downlaod-Steps)|NAN|NAN|NAN|[MBTA Class](https://github.com/sei-jed-10/w04d04-HW10)|
 |4|5| []() | []()| []()| []()|[]()|[]()|[]()|
 
 ### Students
