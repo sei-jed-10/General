@@ -29,12 +29,12 @@ Prayer | 3:30pm - 4:00pm
 - **Samar Fares** (Junior Instructor)
   - [Email Me](mailto:samar.fares@generalassemb.ly)
   
-- **Abdullah Altwaim** (Facilitator)
+- **Abdullah Altwaim** (Instructional Assistant)
   - [Email Me](mailto:abdullah.altwaim@generalassemb.ly)
   - Weekday Office Hours: 6pm - 9pm (Offline) / 
   - Saturday 2pm - 4pm (Online/Offline)
 
-- **Sara Daghustani** (Facilitator)
+- **Sara Daghustani** (Instructional Assistant)
   - [Email Me](mailto:sara.daghustani@generalassemb.ly)
   - Weekday Office Hours: 6pm - 9pm (Offline) / 
   - Saturday 2pm - 4pm (Online/Offline)
