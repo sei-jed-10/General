@@ -52,8 +52,8 @@ General Assembly's Software Engineering Immersive course  is split into 4 units.
 | 2  | HTML, CSS, Responsive, DOM, jQuery|
 | 3  | Project 1  |
 
-### External Resources
-#### Unit 1 Resources **[Here](https://github.com/sei-jed-10/External-Resources)**
+### Unit 1 External Resources
+#### Unit 1 Resources **[Here](https://github.com/sei-jed-10/External-Resources-Unit1)**
 
 ### Unit 2 (Back End Web Development)
 
@@ -63,7 +63,7 @@ General Assembly's Software Engineering Immersive course  is split into 4 units.
 | 5  | Ruby on Rails, Bootstrap, Authentication  |
 | 6  | Project 2 |
 
-### External Resources
+### Unit 2 External Resources
 #### Unit 2 Resources **[Here]()**
 
 
