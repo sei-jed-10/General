@@ -64,7 +64,7 @@ General Assembly's Software Engineering Immersive course  is split into 4 units.
 | 6  | Project 2 |
 
 ### Unit 2 External Resources
-#### Unit 2 Resources **[Here]()**
+#### Unit 2 Resources **[Here](https://github.com/sei-jed-10/External-Resources-Unit2)**
 
 
 ### Unit 3 (Front End Framework)
