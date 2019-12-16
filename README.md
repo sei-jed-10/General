@@ -102,7 +102,9 @@ Homework submission is very important to the completion of this program.
 |4|4| NAN| [MySQL](https://github.com/sei-jed-10/W04D04-MySQL)| [Installing MySQL](https://github.com/sei-jed-10/MySQL-Downlaod-Steps)|NAN|NAN|NAN|[MBTA Class-HW10](https://github.com/sei-jed-10/w04d04-HW10)|
 |4|5| NAN | [Continue MySQL](https://github.com/sei-jed-10/W04D04-MySQL)| [MySQL Example](https://github.com/sei-jed-10/W04D05-MySQL-example)| [Lab1](https://github.com/sei-jed-10/W04D04-MySQL/tree/master/exercises/sql-library-lab)|[Lab2](https://github.com/sei-jed-10/W04D04-MySQL/tree/master/exercises/computers-lab)|[]()|[]()|
 |-| -|-| -| -|-|-|-|-|
-|5|1| [Shop Class](https://github.com/sei-jed-10/W05D01-warmup) | [Rails Into](https://github.com/sei-jed-10/W05D01-RailsIntro)| [Lab](https://github.com/sei-jed-10/W05D01-RailsIntro/blob/master/student_labs/Rails_Lab.md)| []()|[]()|[]()|[Rails-HW11](https://github.com/sei-jed-10/w05d01-HW11)|
+|5|1| [Shop Class](https://github.com/sei-jed-10/W05D01-warmup) | [Rails Into](https://github.com/sei-jed-10/W05D01-RailsIntro)| NAN|NAN|[NAN|NAN|[Rails-HW11](https://github.com/sei-jed-10/w05d01-HW11)|
+|5|2| NAN | [Continue Rails Into](https://github.com/sei-jed-10/W05D01-RailsIntro)| [Lab](https://github.com/sei-jed-10/W05D01-RailsIntro/blob/master/student_labs/Rails_Lab.md)| [Rails One to Many](https://github.com/sei-jed-10/W05D02-Rails-Muse-One-To-Many)|[Lab](https://github.com/sei-jed-10/W05D02-Rails-Muse-One-To-Many/blob/master/rails-active-record-intro-artist-model-step1.md#labtime)|[]()|[]()|
+|5|3|[]() | []()| []()| []()|[]()|[]()|[]()|
 
 ### Students
 
