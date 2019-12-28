@@ -112,33 +112,51 @@ Homework submission is very important to the completion of this program.
 |7|1|[]()|[]()|[]()|[]()|[]()|[]()|[]()|
 
 
-### Students
+### Projects
+##### [Project One Prompt](https://github.com/sei-jed-10/project1)
+##### [Project Two Prompt](https://github.com/sei-jed-10/Project-2)
+| No. | Student GitHub | First Project Repo | First Project link| Second Project Repo | Second Project link|
+|---  | ---     | ---      | ---      | ---      | ---      | 
 
-| No. | Student | First Project | Second Project |
-|---  | ---     | ---      | ---      | 
-|1    | [Abdullah Mohammed Alshahrani](https://github.com/AbdullahKhales) | [Connect4](https://abdullahkhales.github.io/connect4/) | [Second Project](https://github.io/)|  
-|2    | [Abdullah A Binmahfouz](https://github.com/abinm670) | [Connect4](https://abinm670.github.io/project1/)| [Second Project](https://github.io/)|  
-|3    | [Abdulrahman Hassan N Alsulami](https://github.com/a-sulami) | [Connect4](https://a-sulami.github.io/4-in-a-row-game/) | [Second Project](https://github.io/)|  
-|4    | [Afnan Ahmed Mohammed Masrahi](https://github.com/Afnanahmed90) | [Connect4](https://afnanahmed90.github.io/Project-1/) | [Second Project](https://github.io/)|  
-|5    | [Ahmad Al Arif](https://github.com/ahmadalarif) | [Connect4](https://ahmadalarif.github.io/connect4/) | [Second Project](https://github.io/)|  
-|6    | [Amal Abdulmoti Algregri](https://github.com/Amal337) | [Connect4](https://amal337.github.io/project1-connect4/) | [Second Project](https://github.io/)|  
-|7    | [Bandar Al-Huthali](https://github.com/Bedo-11) | [Connect4](https://bedo-11.github.io/project1-1/index.html) | [Second Project](https://github.io/)|  
-|8    | [Bandari Saud Alotaibi](https://github.com/bandari5) | [Connect4](https://bandari5.github.io/Connect4Game/) | [Second Project](https://github.io/)|  
-|9   | [Dalia Dammas](https://github.com/dhdammas) | [Connect4](https://dhdammas.github.io/connect4/index.html) | [Second Project](https://github.io/)|  
-|10    | [Doaa Mahmoud Barad Turkistani](https://github.com/DoaaMT) | [Connect4](https://doaamt.github.io/Connect4/index.html) | [Second Project](https://github.io/)|  
-|11  | [Faisal Alsulaimani](https://github.com/iFaisalo) | [Connect4](https://ifaisalo.github.io/sei-1st-project-connect4/) | [Second Project](https://github.io/)|  
-|12    | [Fatmah Ahmad Abdulhameed Kalantan](https://github.com/fatmake) | [Connect4](https://fatmake.github.io/connect-4/project1.html) | [Second Project](https://github.io/)|  
-|13   | [Hanin Nabil Nouh](https://github.com/hnouh) | [Connect4](https://hnouh.github.io/project1-Hanin-Nouh/) | [Second Project](https://github.io/)|  
-|14  | [Hatim Hisham Alattas](https://github.com/hatimalattas) | [Connect4](https://hatimalattas.github.io/project1-connect4/index.html) | [Second Project](https://github.io/)|  
-|15    | [Ibrahim Mohammed Zahran](https://github.com/izahran) | [Connect4](https://izahran.github.io/Connect-4/Connect4.html) | [Second Project](https://github.io/)|  
-|16    | [khadijah osama saber](https://github.com/KOSaber) | [Connect4](https://kosaber.github.io/MyProject1/) | [Second Project](https://github.io/)|  
-|17    | [Leena Yaseen](https://github.com/LeenaYaseen) | [Connect4](https://leenayaseen.github.io/connect4/) | [Second Project](https://github.io/)|  
-|18    | [Mohammed AL-Amri](https://github.com/Mohammedalamry) | [Connect4](https://mohammedalamry.github.io/project1connect4/index.html) | [Second Project](https://github.io/)|  
-|19   | [Mohammed Abdullah H Almahdawi](https://github.com/Moohy) | [Connect4](https://moohy.github.io/Connect4/) | [Second Project](https://github.io/)|  
-|20   | [Razan Fares Sannan](https://github.com/Razan-1996) | [Connect4](https://razan-1996.github.io/project1/connect4.html) | [Second Project](https://github.io/)|  
-|21    | [Safwan Abdulhamid AlQulayti](https://github.com/SafwanAlqulayti) | [Connect4](https://safwanalqulayti.github.io/ProjectConnect4/) | [Second Project](https://github.io/)| 
-|22  | [Sara Abdulrahman M Alraddadi](https://github.com/Sara-Alraddadi) | [Connect4](https://sara-alraddadi.github.io/ProjectOne/) | [Second Project](https://github.io/)| 
-|23   | [Sarah Masoud AlAhmadi](https://github.com/SarahMA5) | [Connect4](https://sarahma5.github.io/Connect-4/) | [Second Project](https://github.io/)| 
-|24  | [Wardah Ahmed Almalki](https://github.com/wardahmad) | [Connect4](https://wardahmad.github.io/project_1/) | [Second Project](https://github.io/)| 
+|1| [Abdullah Mohammed Alshahrani](https://github.com/AbdullahKhales) | [connect4 Repo](https://github.com/AbdullahKhales/connect4) | [Connect4](https://abdullahkhales.github.io/connect4/) | [Teacher](https://github.com/AbdullahKhales/teacher_app)| [Teacher](https://teacher-app-ga.herokuapp.com/users/sign_in)|
+|2| [Abdullah A Binmahfouz](https://github.com/abinm670) | [connect4 Repo](https://github.com/abinm670/project1) |[Connect4](https://abinm670.github.io/project1/)| [Career](https://github.com/abinm670/career)|[]()|
+|4| [Afnan Ahmed Mohammed Masrahi](https://github.com/Afnanahmed90) | [connect4 Repo](https://github.com/Afnanahmed90/Project-1) |[Connect4](https://afnanahmed90.github.io/Project-1/) | [Perfume Store](https://github.com/Afnanahmed90/perfume_store)| [Perfume Store](https://afnan-perfume.herokuapp.com/users/sign_in)| 
+|3| [Abdulrahman Hassan N Alsulami](https://github.com/a-sulami) | [connect4 Repo](https://github.com/a-sulami/4-in-a-row-game) | [Connect4](https://a-sulami.github.io/4-in-a-row-game/) | [Series Tracker](https://github.com/a-sulami/project02_app)| [Series Tracker](https://abudlrahman-series-tracker.herokuapp.com/users/sign_in)|
+|5| [Ahmad Al Arif](https://github.com/ahmadalarif) | [connect4 Repo](https://github.com/ahmadalarif/connect4) | [Connect4](https://ahmadalarif.github.io/connect4/) | [Tune](https://github.com/ahmadalarif/tune)|[Tune](https://tune-app.herokuapp.com/users/sign_in)|
+|6| [Amal Abdulmoti Algregri](https://github.com/Amal337) | [connect4 Repo](https://github.com/Amal337/project1-connect4) | [Connect4](https://amal337.github.io/project1-connect4/) | [Movie](https://github.com/Amal337/movie_app)|[movie](https://movie-app-36.herokuapp.com/)|
+|7| [Bandar Al-Huthali](https://github.com/Bedo-11) | [connect4 Repo](https://github.com/Bedo-11/project1-1) | [Connect4](https://bedo-11.github.io/project1-1/index.html) | [Barber Shop](https://github.com/Bedo-11/Barber-Shop)| []()| 
+|8| [Bandari Saud Alotaibi](https://github.com/bandari5) | [connect4 Repo](https://github.com/bandari5/Connect4Game) | [Connect4](https://bandari5.github.io/Connect4Game/) | [Chocolate Store](https://github.com/bandari5/Ban-Chocolate-Store)|[Chocolate Store](https://ban-chocolate-store.herokuapp.com/users/sign_in)|
+|9| [Dalia Dammas](https://github.com/dhdammas) | [connect4 Repo](https://github.com/dhdammas/connect4) | [Connect4](https://dhdammas.github.io/connect4/index.html) | [Manufacturing](https://github.com/dhdammas/maufacturingapp)|[]()|
+|10| [Doaa Mahmoud Barad Turkistani](https://github.com/DoaaMT) | [connect4 Repo](https://github.com/DoaaMT/Connect4) | [Connect4](https://doaamt.github.io/Connect4/index.html) | [E-commerce](https://github.com/DoaaMT/E_commerce)| [E-commerce](https://e-commerce-doaa.herokuapp.com/)| 
+|11| [Faisal Alsulaimani](https://github.com/iFaisalo) | [connect4 Repo](https://github.com/iFaisalo/sei-1st-project-connect4) | [Connect4](https://ifaisalo.github.io/sei-1st-project-connect4/) | [Hospital App](https://github.com/iFaisalo/sei-2nd-project-hospital_app)|[Hospital App](https://sei-2nd-project-hospital-app.herokuapp.com/users/sign_in)|
+|12| [Fatmah Ahmad Abdulhameed Kalantan](https://github.com/fatmake) | [connect4 Repo](https://github.com/fatmake/connect-4) | [Connect4](https://fatmake.github.io/connect-4/project1.html) | [Art Gallery](https://github.com/fatmake/art_gallery)|[]()|
+|13| [Hanin Nabil Nouh](https://github.com/hnouh) | [connect4 Repo](https://github.com/hnouh/project1-Hanin-Nouh) | [Connect4](https://hnouh.github.io/project1-Hanin-Nouh/) | [Anime](https://github.com/hnouh/2project-Hanin-Nouh)|[Anime](https://anime-app1.herokuapp.com/)|
+|14| [Hatim Hisham Alattas](https://github.com/hatimalattas) | [connect4 Repo](https://github.com/hatimalattas/project1-connect4) | [Connect4](https://hatimalattas.github.io/project1-connect4/index.html) | [Malaeb](https://github.com/hatimalattas/malaeb)|[Malaeb](https://malabapp.herokuapp.com/)|
+|15| [Ibrahim Mohammed Zahran](https://github.com/izahran) | [connect4 Repo](https://github.com/izahran/Connect-4) |[Connect4](https://izahran.github.io/Connect-4/Connect4.html) | [Topics](https://github.com/izahran/topics)|[]()|
+|16| [khadijah osama saber](https://github.com/KOSaber) | [connect4 Repo](https://github.com/KOSaber/MyProject1) | [Connect4](https://kosaber.github.io/MyProject1/) | [Book Store](https://github.com/KOSaber/book_store_app)|[Book Store](https://khadijah-book-store-app.herokuapp.com/)|
+|17| [Leena Yaseen](https://github.com/LeenaYaseen) | [connect4 Repo](https://github.com/LeenaYaseen/connect4) | [Connect4](https://leenayaseen.github.io/connect4/) | [Game Tracker](https://github.com/LeenaYaseen/Gametracker-app)|[]()|
+|18| [Mohammed AL-Amri](https://github.com/Mohammedalamry) | [connect4 Repo](https://github.com/Mohammedalamry/project1connect4) | [Connect4](https://mohammedalamry.github.io/project1connect4/index.html) | [Flower Shop](https://github.com/Mohammedalamry/shop_flower_app1)|[]()|
+|19| [Mohammed Abdullah H Almahdawi](https://github.com/Moohy) | [connect4 Repo](https://github.com/Moohy/Connect4) | [Connect4](https://moohy.github.io/Connect4/) | [Food Court](https://github.com/Moohy/FoodCourt)|[Food Court](https://secret-dusk-93056.herokuapp.com/)|
+|20| [Razan Fares Sannan](https://github.com/Razan-1996) | [connect4 Repo](https://github.com/Razan-1996/project1) | [Connect4](https://razan-1996.github.io/project1/connect4.html) | [Book Review](https://github.com/Razan-1996/quickreview_app)|[Book Review](https://quickbookreview.herokuapp.com/)|
+|21| [Safwan Abdulhamid AlQulayti](https://github.com/SafwanAlqulayti) | [connect4 Repo](https://github.com/SafwanAlqulayti/ProjectConnect4.git) | [Connect4](https://safwanalqulayti.github.io/ProjectConnect4/) | [Course](https://github.com/SafwanAlqulayti/Course_app_new1)| [Course](https://courseappsafwan.herokuapp.com/users/sign_in)|
+|22| [Sara Abdulrahman M Alraddadi](https://github.com/Sara-Alraddadi) | [connect4 Repo](https://github.com/Sara-Alraddadi/ProjectOne) | [Connect4](https://sara-alraddadi.github.io/ProjectOne/) | [PS4 Games](https://github.com/Sara-Alraddadi/sara-alraddadi-project2)| [PS4 Games](https://ps4-games-app.herokuapp.com/)|
+|23| [Sarah Masoud AlAhmadi](https://github.com/SarahMA5) | [connect4 Repo](https://github.com/SarahMA5/Connect-4) | [Connect4](https://sarahma5.github.io/Connect-4/) | [Goal Tracker](https://github.com/SarahMA5/Goal-Tracker)| []()|
+|24| [Wardah Ahmed Almalki](https://github.com/wardahmad) | [connect4 Repo](https://github.com/wardahmad/project_1) | [Connect4](https://wardahmad.github.io/project_1/) | []()| []()|
+
+----------
+
+### Group Project
+##### [Project Three Prompt]()
+Group Name| Student One | Student Two | Student Three | - |Project Reo |Project link
+---|---|---|---|--|--|--
+**Group Name**| | | | |[]()|[]()
+
+----------
+
+### Final Project 
+##### [Project Four Prompt]()
+Group or Individual| Members |Project Reo |Project link
+---|---|---|---|
+ |  |[]()|[]()
 
 ----------
