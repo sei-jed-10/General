@@ -117,7 +117,6 @@ Homework submission is very important to the completion of this program.
 ##### [Project Two Prompt](https://github.com/sei-jed-10/Project-2)
 | No. | Student GitHub | First Project Repo | First Project link| Second Project Repo | Second Project link|
 |---  | ---     | ---      | ---      | ---      | ---      | 
-
 |1| [Abdullah Mohammed Alshahrani](https://github.com/AbdullahKhales) | [connect4 Repo](https://github.com/AbdullahKhales/connect4) | [Connect4](https://abdullahkhales.github.io/connect4/) | [Teacher](https://github.com/AbdullahKhales/teacher_app)| [Teacher](https://teacher-app-ga.herokuapp.com/users/sign_in)|
 |2| [Abdullah A Binmahfouz](https://github.com/abinm670) | [connect4 Repo](https://github.com/abinm670/project1) |[Connect4](https://abinm670.github.io/project1/)| [Career](https://github.com/abinm670/career)|[]()|
 |4| [Afnan Ahmed Mohammed Masrahi](https://github.com/Afnanahmed90) | [connect4 Repo](https://github.com/Afnanahmed90/Project-1) |[Connect4](https://afnanahmed90.github.io/Project-1/) | [Perfume Store](https://github.com/Afnanahmed90/perfume_store)| [Perfume Store](https://afnan-perfume.herokuapp.com/users/sign_in)| 
