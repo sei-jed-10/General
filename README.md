@@ -140,7 +140,7 @@ Homework submission is very important to the completion of this program.
 |21| [Safwan Abdulhamid AlQulayti](https://github.com/SafwanAlqulayti) | [connect4 Repo](https://github.com/SafwanAlqulayti/ProjectConnect4.git) | [Connect4](https://safwanalqulayti.github.io/ProjectConnect4/) | [Course](https://github.com/SafwanAlqulayti/Course_app_new1)| [Course](https://courseappsafwan.herokuapp.com/users/sign_in)|
 |22| [Sara Abdulrahman M Alraddadi](https://github.com/Sara-Alraddadi) | [connect4 Repo](https://github.com/Sara-Alraddadi/ProjectOne) | [Connect4](https://sara-alraddadi.github.io/ProjectOne/) | [PS4 Games](https://github.com/Sara-Alraddadi/sara-alraddadi-project2)| [PS4 Games](https://ps4-games-app.herokuapp.com/)|
 |23| [Sarah Masoud AlAhmadi](https://github.com/SarahMA5) | [connect4 Repo](https://github.com/SarahMA5/Connect-4) | [Connect4](https://sarahma5.github.io/Connect-4/) | [Goal Tracker](https://github.com/SarahMA5/Goal-Tracker)| []()|
-|24| [Wardah Ahmed Almalki](https://github.com/wardahmad) | [connect4 Repo](https://github.com/wardahmad/project_1) | [Connect4](https://wardahmad.github.io/project_1/) | []()| []()|
+|24| [Wardah Ahmed Almalki](https://github.com/wardahmad) | [connect4 Repo](https://github.com/wardahmad/project_1) | [Connect4](https://wardahmad.github.io/project_1/) | [Best Places](https://github.com/wardahmad/project_2)| [Best Places](https://world-best-places.herokuapp.com/users/sign_in)|
 
 ----------
 
