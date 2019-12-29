@@ -70,6 +70,12 @@ General Assembly's Software Engineering Immersive course  is split into 4 units.
 
 ### Unit 3 (Front End Framework)
 
+| Week  | Topics |
+| ----- | ------ |
+| 7  | Git Workflow, ES6, AJAX  |
+| 8  | Node, React  |
+| 9  | Project 3 |
+
 ### Unit 4 (Server API and FullStack Development)
  
 
