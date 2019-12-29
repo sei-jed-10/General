@@ -115,7 +115,7 @@ Homework submission is very important to the completion of this program.
 |5|5|NAN| [Rails Has Many Through](https://github.com/sei-jed-10/W05D05-Rails-Has-Many-Through-Association)| [Model Validations](https://github.com/sei-jed-10/W05d05-Rails-Model-Validations)| [Project 2 Ideas](https://docs.google.com/spreadsheets/d/1-sbz4FfsvwwU1PMg3wsVa9zpdf2RCYPSUvAmlkG4Dcw/edit#gid=0)|[RecipeApp](https://github.com/sei-jed-10/RecipeApp)|NAN|NAN|
 |6|1-5|Project2|Project2|Project2|Project2|Project2|Project2|Project2|
 |-| -|-| -| -|-|-|-|-|
-|7|1|NAN|[Modern JS](https://github.com/sei-jed-10/W07D01-Modern-JS)|[]()|[]()|[]()|[]()|[]()|
+|7|1|NAN|[Modern JS](https://github.com/sei-jed-10/W07D01-Modern-JS)|[]()|[]()|[]()|[]()|[Modern JS-HW13](https://github.com/sei-jed-10/w07d01-HW13)|
 
 
 ### Projects
