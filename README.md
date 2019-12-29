@@ -146,7 +146,7 @@ Homework submission is very important to the completion of this program.
 
 ### Group Project
 ##### [Project Three Prompt]()
-Group Name| Student One | Student Two | Student Three | - |Project Reo |Project link
+Group Name| Student One | Student Two | Student Three |Student Four |Project Reo |Project link
 ---|---|---|---|--|--|--
 **Group Name**| | | | |[]()|[]()
 
