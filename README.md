@@ -117,8 +117,9 @@ Homework submission is very important to the completion of this program.
 |-| -|-| -| -|-|-|-|-|
 |7|1|NAN|[Modern JS](https://github.com/sei-jed-10/W07D01-Modern-JS)|NAN|NAN|NAN|NAN|[Modern JS-HW13](https://github.com/sei-jed-10/w07d01-HW13)|
 |7|2|NAN|[OOP in JS](https://github.com/sei-jed-10/W07D02-OOJS)|NAN|NAN|NAN|NAN|[HW14](https://github.com/sei-jed-10/w07d02-HW14)|
-|7|3|[The Sieve of Eratosthenes](https://github.com/sei-jed-10/Calculator-W07D03)|[Group Git](https://github.com/sei-jed-10/W07D03-GroupGIT)|[AXIOS](https://github.com/sei-jed-10/W07D03-AJAX-AXIOS)|[]()|[]()|[]()|NAN|
-
+|7|3|[The Sieve of Eratosthenes](https://github.com/sei-jed-10/Calculator-W07D03)|[Group Git](https://github.com/sei-jed-10/W07D03-GroupGIT)|[AXIOS](https://github.com/sei-jed-10/W07D03-AJAX-AXIOS)|NAN|NAN|NAN|NAN|
+|7|4||NAN|[AXIOS](https://github.com/sei-jed-10/W07D04-AXIOS-CodeAlong)|[]()|[]()|[]()|[Gladiator Arena-HW15](https://github.com/sei-jed-10/w07d04-HW15)|
+|7|5||[]()|[]()|[]()|[]()|[]()|[]()|
 
 ### Projects
 ##### [Project One Prompt](https://github.com/sei-jed-10/project1)
