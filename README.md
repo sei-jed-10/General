@@ -76,16 +76,20 @@ General Assembly's Software Engineering Immersive course  is split into 4 units.
 | 8  | Node, React  |
 | 9  | Project 3 |
 
+### Unit 3 External Resources
+#### Unit 3 Resources **[Here](https://github.com/sei-jed-10/External-Resources-Unit3)**
+
+
 ### Unit 4 (Server API and FullStack Development)
  
-
 
 
 ## Homeworks.
 Homework submission is very important to the completion of this program. 
 [How to Submit Homework](https://github.com/sei-jed-10/homework_submission_important) 
 
-## Lesson Breakdown
+
+## Lessons Breakdown
 | Week | Day  | Warm Up | Lesson | Lesson | Lesson | Lesson | Lesson | Homework |  
 |------|------| --------| -------| -------| -------|--------|--------|---------|
 |1|1| NAN | [Installfest](https://github.com/sei-jed-10/installfest)| [CLI](https://github.com/sei-jed-10/w01d01_command_line)| [Git](https://github.com/sei-jed-10/w01d01_git_and_github)|NAN|NAN|NAN|
@@ -118,8 +122,17 @@ Homework submission is very important to the completion of this program.
 |7|1|NAN|[Modern JS](https://github.com/sei-jed-10/W07D01-Modern-JS)|NAN|NAN|NAN|NAN|[Modern JS-HW13](https://github.com/sei-jed-10/w07d01-HW13)|
 |7|2|NAN|[OOP in JS](https://github.com/sei-jed-10/W07D02-OOJS)|NAN|NAN|NAN|NAN|[HW14](https://github.com/sei-jed-10/w07d02-HW14)|
 |7|3|[The Sieve of Eratosthenes](https://github.com/sei-jed-10/Calculator-W07D03)|[Group Git](https://github.com/sei-jed-10/W07D03-GroupGIT)|[AXIOS](https://github.com/sei-jed-10/W07D03-AJAX-AXIOS)|NAN|NAN|NAN|NAN|
-|7|4||NAN|[AXIOS](https://github.com/sei-jed-10/W07D04-AXIOS-CodeAlong)|[]()|[]()|[]()|[Gladiator Arena-HW15](https://github.com/sei-jed-10/w07d04-HW15)|
-|7|5||[]()|[]()|[]()|[]()|[]()|[]()|
+|7|4||NAN|[AXIOS](https://github.com/sei-jed-10/W07D04-AXIOS-CodeAlong)|NAN||NAN|[Gladiator Arena-HW15](https://github.com/sei-jed-10/w07d04-HW15)|
+|7|5||NAN|[Mini-Project Axios&APIs](https://github.com/sei-jed-10/W07D05-AXIOS-LAB)|NAN|NAN|NAN|[API Practice-HW16](https://github.com/sei-jed-10/w07d05-HW16)|
+|-| -|-| -| -|-|-|-|-|
+|8|1||[]()|[]()|[]()|[]()|[]()|[]()|
+|8|2||[]()|[]()|[]()|[]()|[]()|[]()|
+|8|3||[]()|[]()|[]()|[]()|[]()|[]()|
+|8|4||[]()|[]()|[]()|[]()|[]()|[]()|
+|8|5||[]()|[]()|[]()|[]()|[]()|[]()|
+|-| -|-| -| -|-|-|-|-|
+
+-----
 
 ### Projects
 ##### [Project One Prompt](https://github.com/sei-jed-10/project1)
@@ -153,11 +166,13 @@ Homework submission is very important to the completion of this program.
 
 ----------
 
+
 ### Group Project
 ##### [Project Three Prompt]()
 Group Name| Student One | Student Two | Student Three |Student Four |Project Reo |Project link
 ---|---|---|---|--|--|--
 **Group Name**| | | | |[]()|[]()
+
 
 ----------
 
