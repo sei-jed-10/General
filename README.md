@@ -125,7 +125,7 @@ Homework submission is very important to the completion of this program.
 |7|4|NAN|[AXIOS CodeAlong](https://github.com/sei-jed-10/W07D04-AXIOS-CodeAlong)|NAN|NAN|NAN|NAN|[Gladiator Arena-HW15](https://github.com/sei-jed-10/w07d04-HW15)|
 |7|5|NAN|[Axios & APIs](https://github.com/sei-jed-10/W07D05-AXIOS-LAB)|NAN|NAN|NAN|NAN|[API Practice-HW16](https://github.com/sei-jed-10/w07d05-HW16)|
 |-| -|-| -| -|-|-|-|-|
-|8|1|[]()|[]()|[]()|[]()|[]()|[]()|[]()|
+|8|1|NAN|[React Intro](https://github.com/sei-jed-10/W08D01-React-Intro)|[Quiz](https://github.com/sei-jed-10/W08D01-React-Intro/blob/master/12-quiz-time.md)|[React Review](https://github.com/sei-jed-10/W08D01-React-Intro/blob/master/13-day-1-react-review-guide.md)|[]()|[]()|[]()|
 |8|2|[]()|[]()|[]()|[]()|[]()|[]()|[]()|
 |8|3|[]()|[]()|[]()|[]()|[]()|[]()|[]()|
 |8|4|[]()|[]()|[]()|[]()|[]()|[]()|[]()|
