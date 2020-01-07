@@ -128,7 +128,7 @@ Homework submission is very important to the completion of this program.
 |-| -|-| -| -|-|-|-|-|
 |8|1|NAN|[React Intro](https://github.com/sei-jed-10/W08D01-React-Intro)|[Quiz](https://github.com/sei-jed-10/W08D01-React-Intro/blob/master/12-quiz-time.md)|[React Review](https://github.com/sei-jed-10/W08D01-React-Intro/blob/master/13-day-1-react-review-guide.md)|NAN|NAN|[Extra Exercise](https://github.com/sei-jed-10/promise-extra-exercise)|
 |8|2|NAN|[React State](https://github.com/sei-jed-10/W08D02-React-State)|[Quiz](https://github.com/sei-jed-10/W08D02-React-State/blob/master/07-Quiz.md)|[State Review](https://github.com/sei-jed-10/W08D02-React-State/blob/master/08-day-2-react-review-guide.md)|NAN|NAN|[Film_App P1-HW17](https://github.com/sei-jed-10/w08d02-HW17-PART1)|
-|8|3|[]()|[]()|[]()|[]()|[]()|[]()|[]()|
+|8|3|NAN|[React Functional](https://github.com/sei-jed-10/lesson-w08d03-react-functional)|[]()|[]()|[]()|[]()|[]()|
 |8|4|[]()|[]()|[]()|[]()|[]()|[]()|[]()|
 |8|5|[]()|[]()|[]()|[]()|[]()|[]()|[]()|
 |-| -|-| -| -|-|-|-|-|
