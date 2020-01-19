@@ -130,8 +130,9 @@ Homework submission is very important to the completion of this program.
 |8|2|NAN|[React State](https://github.com/sei-jed-10/W08D02-React-State)|[Quiz](https://github.com/sei-jed-10/W08D02-React-State/blob/master/07-Quiz.md)|[State Review](https://github.com/sei-jed-10/W08D02-React-State/blob/master/08-day-2-react-review-guide.md)|NAN|NAN|[Film_App Part1-HW17](https://github.com/sei-jed-10/w08d02-HW17)|
 |8|3|NAN|[React Functional](https://github.com/sei-jed-10/lesson-w08d03-react-functional)|NAN|NAN|NAN|NAN|[Film_App Part2-HW17](https://github.com/sei-jed-10/w08d02-HW17)|
 |8|4|NAN|[React Router](https://github.com/sei-jed-10/W08D04-React-Router)|[Blog_Post app](https://github.com/sei-jed-10/Blog-Post-React-App)|[Project 3](https://github.com/sei-jed-10/Project-3)|[Project Idea](https://docs.google.com/spreadsheets/d/1QK61JzhXBNTP3F9dy5DAo1B3o4YZMuy_AYI-Bz3oDCo/edit#gid=0)|[]()|[Film_App Part3-HW17](https://github.com/sei-jed-10/w08d02-HW17)|
-|8|5|[]()|[]()|[]()|[]()|[]()|[]()|[]()|
+|8|5|NAN|[Calculator Exercise](https://github.com/sei-jed-10/Calculator-Exercise)|[React Calculator App](https://github.com/sei-jed-10/React-Calculator-App)|[]()|[]()|[]()|[]()|
 |-| -|-| -| -|-|-|-|-|
+|10|1|NAN|[Intro To Express](https://github.com/sei-jed-10/W10D01-Intro-To-Express)|[]()|[]()|[]()|[]()|[]()|
 
 -----
 
