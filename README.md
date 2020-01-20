@@ -133,7 +133,7 @@ Homework submission is very important to the completion of this program.
 |8|5|NAN|[Calculator Exercise](https://github.com/sei-jed-10/Calculator-Exercise)|[React Calculator App](https://github.com/sei-jed-10/React-Calculator-App)|[]()|[]()|[]()|[]()|
 |-| -|-| -| -|-|-|-|-|
 |10|1|NAN|[Intro To Express](https://github.com/sei-jed-10/W10D01-Intro-To-Express)|NAN|NAN|NAN|NAN|[]()|
-|10|2|[Hamlet with Express](https://github.com/sei-jed-10/warmup-w10d02-hamlet-with-express)|[Mongo Mongoose Intro](https://github.com/sei-jed-10/W10D02-mongo-mongoose-intro)|[]()|[]()|[]()|[]()|[]()|
+|10|2|[Hamlet with Express](https://github.com/sei-jed-10/warmup-w10d02-hamlet-with-express)|[Mongo Mongoose Intro](https://github.com/sei-jed-10/W10D02-mongo-mongoose-intro)|[lab](https://github.com/sei-jed-10/lab-w10d02-mongo-mongoose-intro)|[]()|[]()|[]()|[]()|
 
 -----
 
