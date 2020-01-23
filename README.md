@@ -1,4 +1,5 @@
-# ![](https://misk.org.sa/miskacademy/wp-content/uploads/sites/5/2019/04/ma-logo-1.png) 
+[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
+![Misk Logo](https://i.ibb.co/KmXhJbm/Webp-net-resizeimage-1.png)
 
 # Software Engineering Immersive - 10 (Jeddah Nov-2019)
 Hi Everyone, Welcome to SEI. This repository contains information, Homework, Assignments, Projects and Materials specific to your course.
