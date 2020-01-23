@@ -137,7 +137,7 @@ Homework submission is very important to the completion of this program.
 |10|2|[Hamlet with Express](https://github.com/sei-jed-10/warmup-w10d02-hamlet-with-express)|[Mongo Mongoose Intro](https://github.com/sei-jed-10/W10D02-mongo-mongoose-intro)|[lab](https://github.com/sei-jed-10/lab-w10d02-mongo-mongoose-intro)|NAN|NAN|NAN|[lab-HW18](https://github.com/sei-jed-10/lab-w10d02-mongo-mongoose-intro)|
 |10|3|[Students Warmup](https://github.com/sei-jed-10/warmup-w10d03)|[CRUD Mongoose Express](https://github.com/sei-jed-10/W10D03-CRUD-Mongoose-Express)|NAN|NAN|NAN|NAN|NAN|
 |10|4|[Carmen](https://github.com/sei-jed-10/warmup-w10d04-carmen)|[Mongoose Associations](https://github.com/sei-jed-10/lesson-w10d04-mongoose-associations)|NAN|NAN|NAN|NAN|[Lightning Talk](https://github.com/sei-jed-10/lightning-talk)|
-|10|5|NAN|[BlogApp LAB](https://github.com/sei-jed-10/W10D05-BlogApp-LAB)|[]()|[]()|[]()|[]()|[]()|
+|10|5|NAN|[BlogApp LAB](https://github.com/sei-jed-10/W10D05-BlogApp-LAB)|[Express Blog App](https://github.com/sei-jed-10/Express-Blog-App)|[Practice Fruits with EJS](https://github.com/sei-jed-10/Practice-Fruits-with-EJS)|[Project4](https://github.com/sei-jed-10/Project-4)|NAN|[Project4 Ideas](https://docs.google.com/spreadsheets/d/1E78OUfYzHyX3DaBB9pI5qQ4_MReHIz28QIGsYqQdVvo/edit#gid=0)|
 
 -----
 
