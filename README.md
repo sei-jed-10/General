@@ -99,15 +99,15 @@ Homework submission is very important to the completion of this program.
 |1|3| [Warm UP](https://github.com/sei-jed-10/Warmup-W01D03) | [JS Functions](https://github.com/sei-jed-10/w01wd03_JS-functions)| [Lab1](https://github.com/sei-jed-10/w01d03-JS-function-lab1)| [Lab2](https://github.com/sei-jed-10/w01d03-JS-function-lab2)|NAN|NAN|[JS Functions-HW2](https://github.com/sei-jed-10/w01d03-HW2)|
 |1|4| NAN | [JS Arrays](https://github.com/sei-jed-10/w01d04_arrays-loops)| [JS Loops](https://github.com/sei-jed-10/w01d04_arrays-loops/blob/master/slides/loops.pdf)| [JS Array-Lab](https://github.com/sei-jed-10/w01d04-arrays-lab)|[JS Loops-Lab](https://github.com/sei-jed-10/w01d04-loops-lab)|[JS Arrays-Loops-Lab](https://github.com/sei-jed-10/w01d04-arrays-loops-lab)|[JS Arrays & Loops-HW3](https://github.com/sei-jed-10/w01d04-HW3)|
 |1|5| [Leap Year /](https://github.com/sei-jed-10/warmup-w01-d05-leapyear)[ Count/Sum](https://github.com/sei-jed-10/warmup-w01-d05-arrays) | [JS Objects](https://github.com/sei-jed-10/w01d05_JS-Objects)| [lab1](https://github.com/sei-jed-10/w01d05-Objects-lab1)| [lab2](https://github.com/sei-jed-10/w01d05-Objects-lab2)|[lab3](https://github.com/sei-jed-10/w01d05-Objects-lab3)|[lab4](https://github.com/sei-jed-10/w01d05-Objects-lab4)|[MBTA-HW4](https://github.com/sei-jed-10/w01d05-HW4)|
--|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|
 |2|1| [Scrabble](https://github.com/sei-jed-10/warmup-w02-d01-scrabble) | [HTML](https://github.com/sei-jed-10/W02D01-Intro-HTML)| [lab1](https://github.com/sei-jed-10/W02D01-Lab)| [lab2](https://github.com/sei-jed-10/W02d01-lab2)|NAN|NAN|[ ex5,6,7-HW5](https://github.com/sei-jed-10/W02d01-lab2)|
 |2|2| [HTML & CSS](https://github.com/sei-jed-10/W02-D02-HTML-CSS) | [CSS Diner](https://flukeout.github.io/)| [CSS Position](https://github.com/sei-jed-10/W02-D02-css-position)| [Flexbox Froggy](https://flexboxfroggy.com/)|[Flexbox Defense](http://www.flexboxdefense.com/)|[Flexbox Webflow](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)|[HTML & CSS-HW6](https://github.com/sei-jed-10/w02d02-HW6)|
 |2|3| [HTML&CSS](https://github.com/sei-jed-10/warmup-w02-d03-HTML-and-CSS) | [Responsive-Design](https://github.com/sei-jed-10/W02D03-Responsive-Design)| [Lab1](https://github.com/sei-jed-10/W02D03-lab1)| [DOM](https://github.com/sei-jed-10/W02D03-DOM/blob/master/dom.pdf)|[Lab2](https://github.com/sei-jed-10/W02D03-DOM)| [HTML&CSS Practice1 /](https://github.com/sei-jed-10/w02d03-Practice1) [ HTML&CSS Practice2](https://github.com/sei-jed-10/w02d03-Practice2) |[DOM-HW7](https://github.com/sei-jed-10/hw-w02d04-dom)|
 |2|4| NAN | [Jquery](https://github.com/sei-jed-10/W02D04-Jquery)| NAN| NAN |NAN|NAN|[DOM-HW7](https://github.com/sei-jed-10/hw-w02d04-dom)|
 |2|5| [Game of Zones](https://github.com/sei-jed-10/warmup-w02-d05-game-of-zones) | [Minions JQuery](https://github.com/sei-jed-10/week2-practice-jquery)| [Wireframes](https://github.com/sei-jed-10/W02D05-Wireframes-UserStories)|NAN|NAN|NAN|[Project1](https://github.com/sei-jed-10/project1)|
--|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|
 |3|1-5|Project1|Project1|Project1|Project1|Project1|Project1|Project1|
--|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|
 |4|1| NAN|[Installing Ruby](https://github.com/sei-jed-10/W04D01-Ruby/blob/master/install-ruby.md)|[Running Ruby](https://github.com/sei-jed-10/W04D01-Ruby/blob/master/how-to-run-ruby.md)|[Ruby Into](https://github.com/sei-jed-10/W04D01-Ruby)|[Lab1](https://github.com/sei-jed-10/W04D01-Ruby/blob/master/data-types-exercises.md)|[Lab2](https://github.com/sei-jed-10/W04D01-Ruby/blob/master/data-collections-exercises.md)|[Ruby MBTA-HW8](https://github.com/sei-jed-10/w04d01-HW8)|
 |4|2| [Warmup](https://github.com/sei-jed-10/w04d02-warmup) | [Ruby Loops](https://github.com/sei-jed-10/W04D02-RubyLoops)| [Ruby Methods](https://github.com/sei-jed-10/W04D02-RubyMethods)| NAN|NAN|NAN|[Ruby Arrays-HW9](https://github.com/sei-jed-10/w04d02-HW9)|
 |4|3| [Ruby Hacking](https://github.com/sei-jed-10/Warmup-W04-D03) | [OOP in Ruby](https://github.com/sei-jed-10/W04D03-RubyOOP)| [Ruby Inheritance](https://github.com/sei-jed-10/W04D03-RubyInheritance)|NAN|NAN|NAN|NAN|
@@ -119,6 +119,7 @@ Homework submission is very important to the completion of this program.
 |5|3|NAN| [Rails One to Many-2](https://github.com/sei-jed-10/W05D02-Rails-Muse-One-To-Many/blob/master/rails-model-associations-song-model-step2.md)| [Lab](https://github.com/sei-jed-10/W05D02-Rails-Muse-One-To-Many/blob/master/rails-model-associations-song-model-step2.md#labtime)| [Rails One to Many-3](https://github.com/sei-jed-10/W05D02-Rails-Muse-One-To-Many/blob/master/rails-routes-views-forms-partials-step3.md)|[Lab](https://github.com/sei-jed-10/W05D02-Rails-Muse-One-To-Many/blob/master/rails-routes-views-forms-partials-step3.md#labtime)|[Muse_App](https://github.com/sei-jed-10/W05D03-muse-app)|NaN|
 |5|4|NaN| [Bootstrap](https://github.com/sei-jed-10/W05d04-Bootstrap)| [Rails Has And Belongs To Many](https://github.com/sei-jed-10/W05D04-Rails-Has-And-Belongs-To-Many-Association)| [Project2](https://github.com/sei-jed-10/Project-2)|[Book_app](https://github.com/sei-jed-10/Books-app)|NAN|[Rails-HW12](https://github.com/sei-jed-10/w05d04-HW12)|
 |5|5|NAN| [Rails Has Many Through](https://github.com/sei-jed-10/W05D05-Rails-Has-Many-Through-Association)| [Model Validations](https://github.com/sei-jed-10/W05d05-Rails-Model-Validations)| [Project 2 Ideas](https://docs.google.com/spreadsheets/d/1-sbz4FfsvwwU1PMg3wsVa9zpdf2RCYPSUvAmlkG4Dcw/edit#gid=0)|[RecipeApp](https://github.com/sei-jed-10/RecipeApp)|NAN|NAN|
+|-| -|-| -| -|-|-|-|-|
 |6|1-5|Project2|Project2|Project2|Project2|Project2|Project2|Project2|
 |-| -|-| -| -|-|-|-|-|
 |7|1|NAN|[Modern JS](https://github.com/sei-jed-10/W07D01-Modern-JS)|NAN|NAN|NAN|NAN|[Modern JS-HW13](https://github.com/sei-jed-10/w07d01-HW13)|
@@ -126,18 +127,25 @@ Homework submission is very important to the completion of this program.
 |7|3|[The Sieve of Eratosthenes](https://github.com/sei-jed-10/Calculator-W07D03)|[Group Git](https://github.com/sei-jed-10/W07D03-GroupGIT)|[AJAX + Axios](https://github.com/sei-jed-10/W07D03-AJAX-AXIOS)|NAN|NAN|NAN|NAN|
 |7|4|NAN|[AXIOS CodeAlong](https://github.com/sei-jed-10/W07D04-AXIOS-CodeAlong)|NAN|NAN|NAN|NAN|[Gladiator Arena-HW15](https://github.com/sei-jed-10/w07d04-HW15)|
 |7|5|NAN|[Axios & APIs](https://github.com/sei-jed-10/W07D05-AXIOS-LAB)|NAN|NAN|NAN|NAN|[API Practice-HW16](https://github.com/sei-jed-10/w07d05-HW16)|
-|-| -|-| -| -|-|-|-|-|
+|-|-|-| -| -|-|-|-|-|
 |8|1|NAN|[React Intro](https://github.com/sei-jed-10/W08D01-React-Intro)|[Quiz](https://github.com/sei-jed-10/W08D01-React-Intro/blob/master/12-quiz-time.md)|[React Review](https://github.com/sei-jed-10/W08D01-React-Intro/blob/master/13-day-1-react-review-guide.md)|NAN|NAN|[Extra Exercise](https://github.com/sei-jed-10/promise-extra-exercise)|
 |8|2|NAN|[React State](https://github.com/sei-jed-10/W08D02-React-State)|[Quiz](https://github.com/sei-jed-10/W08D02-React-State/blob/master/07-Quiz.md)|[State Review](https://github.com/sei-jed-10/W08D02-React-State/blob/master/08-day-2-react-review-guide.md)|NAN|NAN|[Film_App Part1-HW17](https://github.com/sei-jed-10/w08d02-HW17)|
 |8|3|NAN|[React Functional](https://github.com/sei-jed-10/lesson-w08d03-react-functional)|NAN|NAN|NAN|NAN|[Film_App Part2-HW17](https://github.com/sei-jed-10/w08d02-HW17)|
-|8|4|NAN|[React Router](https://github.com/sei-jed-10/W08D04-React-Router)|[Blog_Post app](https://github.com/sei-jed-10/Blog-Post-React-App)|[Project 3](https://github.com/sei-jed-10/Project-3)|[Project Idea](https://docs.google.com/spreadsheets/d/1QK61JzhXBNTP3F9dy5DAo1B3o4YZMuy_AYI-Bz3oDCo/edit#gid=0)|[]()|[Film_App Part3-HW17](https://github.com/sei-jed-10/w08d02-HW17)|
-|8|5|NAN|[Calculator Exercise](https://github.com/sei-jed-10/Calculator-Exercise)|[React Calculator App](https://github.com/sei-jed-10/React-Calculator-App)|[]()|[]()|[]()|[]()|
+|8|4|NAN|[React Router](https://github.com/sei-jed-10/W08D04-React-Router)|[Blog_Post app](https://github.com/sei-jed-10/Blog-Post-React-App)|[Project 3](https://github.com/sei-jed-10/Project-3)|[Project Idea](https://docs.google.com/spreadsheets/d/1QK61JzhXBNTP3F9dy5DAo1B3o4YZMuy_AYI-Bz3oDCo/edit#gid=0)|NAN|[Film_App Part3-HW17](https://github.com/sei-jed-10/w08d02-HW17)|
+|8|5|NAN|[Calculator Exercise](https://github.com/sei-jed-10/Calculator-Exercise)|[React Calculator App](https://github.com/sei-jed-10/React-Calculator-App)|NAN|NAN|NAN|NAN|
+|-| -|-| -| -|-|-|-|-|
+|9|1-5|Project3|Project3|Project3|Project3|Project3|Project3|Project3|
 |-| -|-| -| -|-|-|-|-|
 |10|1|NAN|[Intro To Express](https://github.com/sei-jed-10/W10D01-Intro-To-Express)|NAN|NAN|NAN|NAN|[]()|
 |10|2|[Hamlet with Express](https://github.com/sei-jed-10/warmup-w10d02-hamlet-with-express)|[Mongo Mongoose Intro](https://github.com/sei-jed-10/W10D02-mongo-mongoose-intro)|[lab](https://github.com/sei-jed-10/lab-w10d02-mongo-mongoose-intro)|NAN|NAN|NAN|[lab-HW18](https://github.com/sei-jed-10/lab-w10d02-mongo-mongoose-intro)|
 |10|3|[Students Warmup](https://github.com/sei-jed-10/warmup-w10d03)|[CRUD Mongoose Express](https://github.com/sei-jed-10/W10D03-CRUD-Mongoose-Express)|NAN|NAN|NAN|NAN|NAN|
 |10|4|[Carmen](https://github.com/sei-jed-10/warmup-w10d04-carmen)|[Mongoose Associations](https://github.com/sei-jed-10/lesson-w10d04-mongoose-associations)|NAN|NAN|NAN|NAN|[Lightning Talk](https://github.com/sei-jed-10/lightning-talk)|
 |10|5|NAN|[BlogApp LAB](https://github.com/sei-jed-10/W10D05-BlogApp-LAB)|[Express Blog App](https://github.com/sei-jed-10/Express-Blog-App)|[Practice Fruits with EJS](https://github.com/sei-jed-10/Practice-Fruits-with-EJS)|[Project4](https://github.com/sei-jed-10/Project-4)|NAN|[Project4 Ideas](https://docs.google.com/spreadsheets/d/1E78OUfYzHyX3DaBB9pI5qQ4_MReHIz28QIGsYqQdVvo/edit#gid=0)|
+|-| -|-| -| -|-|-|-|-|
+|11|1|NAN|[Authentication with JWTs](https://github.com/sei-jed-10/lesson-w11d01-express-auth-with-passport)|NAN|NAN|NAN|NAN|NAN|
+|11|2-5|Project4|Project4|Project4|Project4|Project4|Project4|Project4|
+|-| -|-| -| -|-|-|-|-|
+|12|1-5|Project4|Project4|Project4|Project4|Project4|Project4|Project4|
 
 -----
 
@@ -183,7 +191,6 @@ Group Name| Student One | Student Two | Student Three | Student Four | Student F
 **Golden Developer**|Abdullah Binmahfouz |Hanin Nouh |Mohammed AL-Amri|Khadijah Saber |[Travel App](https://github.com/abinm670/Pro3_test2)
 **Error**|Bandar Al-Huthali|Bandari Alotaibi| Ahmed Arif|Safwan AlQulayti|Razan Sannan |[Barber](https://github.com/Bedo-11/Barber-react)
 **Four Amigos**|Abdulrahman Alsulami|Faisal Alsulaimani|Sara Alraddadi |Fatmah Kalantan |[Games](https://github.com/a-sulami/games)
-
 
 ----------
 
