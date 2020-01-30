@@ -205,7 +205,6 @@ lilghosts Group | Sara Alraddadi, Afnan, Fatma, Bandari |[]()|[]()
 Group |Wardah, Amal|[]()|[]()
 Group|Mohmmed Alamri, Ahmad |[]()|[]()
 Individual|Ibrahim |[]()|[]()
-
 Individual|Sarah Alahmadi |[]()|[]()
 Individual|Safwan |[]()|[]()
 
