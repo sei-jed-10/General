@@ -203,9 +203,9 @@ Group | Abdullah Binmahfouz, Doaa, Hanin, Khadijah|[]()|[]()
 Fantastic-4 Group | Razan, Abdullah Alshahrani, Dalia, Hatim |[]()|[]()
 lilghosts Group | Sara Alraddadi, Afnan, Fatma, Bandari |[]()|[]()
 Group |Wardah, Amal|[]()|[]()
-Individual|Ahmad |[]()|[]()
+Group|Mohmmed Alamri, Ahmad |[]()|[]()
 Individual|Ibrahim |[]()|[]()
-Individual|Mohmmed Alamri|[]()|[]()
+
 Individual|Sarah Alahmadi |[]()|[]()
 Individual|Safwan |[]()|[]()
 
